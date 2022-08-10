@@ -1,15 +1,37 @@
 {
   "eleicao": [
-    {"eleicao":"lula"},
-    {"eleicao":"lulala"},
-    {"eleicao":"mito"},
-    {"eleicao":"bolsonaro"},
-    {"eleicao":"luiz inácio"},
-    {"eleicao":"ciro"},
-    {"eleicao":"cirão da massa"},
-    {"eleicao":"messias"},
-    {"eleicao":"jair"},
-    {"eleicao":"jair messias"},
-    {"eleicao":"luiz inácio lula da silva"}
+    {
+      "eleicao":"lula"
+    },
+    {
+      "eleicao":"lulala"
+    },
+    {
+      "eleicao":"mito"
+    },
+    {
+      "eleicao":"bolsonaro"
+    },
+    {
+      "eleicao":"luiz inácio"
+    },
+    {
+      "eleicao":"ciro"
+    },
+    {
+      "eleicao":"cirão da massa"
+    },
+    {
+      "eleicao":"messias"
+    },
+    {
+      "eleicao":"jair"
+    },
+    {
+      "eleicao":"jair messias"
+    },
+    {
+      "eleicao":"luiz inácio lula da silva"
+    }
   ]
 }
